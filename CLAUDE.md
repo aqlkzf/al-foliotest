@@ -125,7 +125,7 @@ Managed via CDN with integrity checks:
 
 ### Bibliography Management
 - Papers stored in _bibliography/papers.bib
-- Cite with {% cite key %} in Markdown
+- Cite with `{% cite key %}` in Markdown (requires jekyll-scholar plugin)
 - Configure citation style in _config.yml scholar section
 
 ### Theme Customization
